@@ -6,7 +6,6 @@
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
-   1-hpoc/clusteraccess/clusteraccess
    1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
@@ -54,22 +53,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Citrix EUC
-   :hidden:
-
-   5-euc/citrix/gettingstarted/gettingstarted
-   5-euc/citrix/goldimage/goldimage
-   5-euc/citrix/pdesktops/pdesktops
-   5-euc/citrix/npdesktops/npdesktops
-   5-euc/citrix/updatecatalog/updatecatalog
-   5-euc/citrix/files/files
-   5-euc/citrix/flow_quarantine_vm/flow_quarantine_vm
-   5-euc/citrix/flow_secure_desktops/flow_secure_desktops
-   5-euc/citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
-   5-euc/citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
-
-.. toctree::
-   :maxdepth: 2
    :caption: Frame EUC
    :hidden:
 
@@ -82,31 +65,7 @@
    5-euc/frame/framefiles/framefiles
    5-euc/frame/edeploycca/deploycca
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Splunk auf AHV Labs
-   :hidden:
-
-   7-splunk/objects_splunk/objects_splunk
-   7-splunk/setup_splunk/setup_splunk
-   7-splunk/generate_logs/generate_logs
-
-.. toctree::
-   :maxdepth: 2
-   :caption: API Labs
-   :hidden:
-
-   8-api/env_setup/env_setup
-   8-api/api_cluster_list/api_cluster_list
-   8-api/api_create_vm/api_create_vm
-   8-api/api_vm_status/api_vm_status
-   8-api/api_image_list/api_image_list
-   8-api/api_update_vm/api_update_vm
-   8-api/api_subnet_list/api_subnet_list
-   8-api/api_vm_guest_customization/api_vm_guest_customization
-   8-api/api_delete_vm/api_delete_vm
-   8-api/api_vm_list/api_vm_list
-   
+ 
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
@@ -124,9 +83,6 @@ Herzlich willkommen auf dem Nutanix Hosted PoC
 .. figure:: images/Intro.png
 
 Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten. 
-
-Lab spezifischen Text einfügen (&ggf. übersetzen):  https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit
-Lab Detail Übersicht (was wird mit welchem Skript aufgesetzt): https://docs.google.com/spreadsheets/d/1vDOb9PbnDujz28m6kOCxqmPNpssOOSUngZgoNwTVo5A/edit#gid=0
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
