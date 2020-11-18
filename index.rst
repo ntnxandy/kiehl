@@ -2,11 +2,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hosted PoC Infos
+   :caption: PoC Infos
    :hidden:
 
-   1-hpoc/ansprechpartner/ansprechpartner
-   1-hpoc/clusterdetails/clusterdetails
+   1-poc/ansprechpartner/ansprechpartner
+   1-poc/clusterdetails/clusterdetails
 
 .. toctree::
    :maxdepth: 2
