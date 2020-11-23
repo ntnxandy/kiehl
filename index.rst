@@ -86,13 +86,13 @@
    6-calm/taskman/taskman.rst
    6-calm/what_is_calm/what_is_calm.rst
    
-   .. toctree::
+.. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
   :hidden:
 
-  tools_vms/windows_tools_vm
-  tools_vms/linux_tools_vm
+   7-tools_vms/windows_tools_vm
+   7-tools_vms/linux_tools_vm
 
 .. _getting_started:
 
