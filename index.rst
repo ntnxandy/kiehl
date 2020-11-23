@@ -65,7 +65,7 @@
    5-euc/frame/framefiles/framefiles
    5-euc/frame/edeploycca/deploycca
 
- .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Calm
    :hidden:
