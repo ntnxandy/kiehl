@@ -86,8 +86,7 @@
    6-calm/taskman/taskman.rst
    6-calm/what_is_calm/what_is_calm.rst
    
-   
-.. toctree::
+   .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
   :hidden:
