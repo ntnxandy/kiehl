@@ -9,6 +9,10 @@ Linux Tools VM
 
 Dieses CentOS VM-Image wird mit Paketen bereitgestellt, die zur Unterstützung mehrerer Lab-Übungen verwendet werden. Stellen Sie diese VM auf Ihrem zugewiesenen Cluster bereit, wenn Sie im Rahmen von **Lab Setup** dazu aufgefordert werden. **Stellen Sie die VM nur einmal bereit, sie wird u.U. in mehreren Labs verwendet.**
 
+Download:
+https://s3.amazonaws.com/get-ahv-images/Linux_ToolsVM.qcow2
+
+
 Bereitstellen von CentOS
 ++++++++++++++++++++++++
 

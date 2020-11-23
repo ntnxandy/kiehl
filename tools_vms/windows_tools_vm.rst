@@ -9,6 +9,10 @@ Windows Tools VM
 
 Stellen Sie diese VM auf Ihrem zugewiesenen Cluster bereit, wenn Sie im Rahmen von **Lab Setup** dazu aufgefordert werden. **Stellen Sie die VM nur einmal bereit, sie wird u.U. in mehreren Labs verwendet.**
 
+Download:
+https://s3.amazonaws.com/get-ahv-images/Windows2012R2.qcow2
+
+
 Dieses Windows Server 2012 R2-Image ist mit einer Reihe von Tools vorinstalliert, darunter:
 
 - Microsoft Remote Server Administration Tools (RSAT)
