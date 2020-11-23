@@ -65,7 +65,28 @@
    5-euc/frame/framefiles/framefiles
    5-euc/frame/edeploycca/deploycca
 
- 
+ .. toctree::
+   :maxdepth: 2
+   :caption: Calm
+   :hidden:
+
+   6-calm/appendix/basics.rst
+   6-calm/appendix/glossary.rst
+   6-calm/calm_day2/calm_day2.rst
+   6-calm/calm_enable/calm_enable.rst
+   6-calm/calm_escript/calm_escript.rst
+   6-calm/calm_iaas/calm_iaas.rst
+   6-calm/calm_karbon_cicd/alm_karbon_cicd.rst
+   6-calm/calm_linux/calm_linux.rst
+   6-calm/calm_marketplace/alm_marketplace.rst
+   6-calm/calm_projects/alm_projects.rst
+   6-calm/calm_win/calm_win.rst
+   6-calm/flow_assign_categories_in_calm/low_assign_categories_in_calm.rst
+   6-calm/images/
+   6-calm/taskman/taskman.rst
+   6-calm/what_is_calm/what_is_calm.rst
+   
+   
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
